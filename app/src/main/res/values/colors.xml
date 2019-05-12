@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#434343</color>
+    <color name="colorPrimaryLight">#4d4d4d</color>
+    <color name="colorPrimaryLighter">#606060</color>
+    <color name="colorPrimaryDark">#313131</color>
+    <color name="colorAccent">#a4a4a4</color>
+
+    <color name="colorwhite">#FFFFFF</color>
+    <color name="coloryellow">#FFFF00</color>
+    <color name="colorfuchsia">#FF00FF</color>
+    <color name="colorred">#FF0000</color>
+    <color name="colorsilver">#C0C0C0</color>
+    <color name="colorgray">#808080</color>
+    <color name="colorolive">#808000</color>
+    <color name="colorpurple">#800080</color>
+    <color name="colormaroon">#800000</color>
+    <color name="coloraqua">#00FFFF</color>
+    <color name="colorlime">#00FF00</color>
+    <color name="colorteal">#008080</color>
+    <color name="colorgreen">#008000</color>
+    <color name="colorblue">#0000FF</color>
+    <color name="colornavy">#000080</color>
+    <color name="colorblack">#000000</color>
+
+    <color name="emlakblue">#437cc4</color>
+    <color name="emlakgri">#3f3f3f</color>
+    <color name="emlakacikgri">#B9B9B9</color>
+
+    <color name="hintblue">#9cc7ff</color>
+
+    <!--TDMenu-->
+    <color name="menuSeviye1">#000000</color>
+    <color name="menuTextSeviye1">#ffffff</color>
+    <color name="menuSeviye2">#1d1d1d</color>
+    <color name="menuTextSeviye2">#ffffff</color>
+    <color name="menuSeviye3">#313131</color>
+    <color name="menuTextSeviye3">#ffffff</color>
+    <color name="menuSeviye4">#434343</color>
+    <color name="menuTextSeviye4">#ffffff</color>
+    <color name="menuSeviye5">#505050</color>
+    <color name="menuTextSeviye5">#ffffff</color>
+    <color name="menuSeviye6">#646464</color>
+    <color name="menuTextSeviye6">#ffffff</color>
+    <color name="menuSeviye7">#767676</color>
+    <color name="menuTextSeviye7">#1d1d1d</color>
+    <color name="menuSeviye8">#898989</color>
+    <color name="menuTextSeviye8">#1d1d1d</color>
+    <color name="menuSeviye9">#a4a4a4</color>
+    <color name="menuTextSeviye9">#1d1d1d</color>
+    <color name="menuSeviye10">#ffffff</color>
+    <color name="menuTextSeviye10">#000000</color>
+</resources>

@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Emlak Android Projesi</string>
+
+    <string name="app_anasayfa">Emlak Android Projesi</string>
+    <string name="app_arama">Emlak Arama</string>
+    <string name="app_galeri">Galeri</string>
+    <string name="app_haber">Haber</string>
+    <string name="app_haberler">Haberler</string>
+    <string name="app_harita">Harita</string>
+    <string name="app_icerik">İçerik</string>
+    <string name="app_ilan">İlan</string>
+    <string name="app_ilanlar">İlanlar</string>
+    <string name="app_ozellikler">Özellikler</string>
+    <string name="app_realestatelist">Real Estate List</string>
+
+    <!--Navigasyon-->
+    <string name="nav_hint_ac">Menü Aç</string>
+    <string name="nav_hint_kapat">Menü Kapat</string>
+    <string name="nav_hazirlayan">Hazırlayan : Sina SALIK</string>
+    <string name="nav_hazirlayan2">Hazırlayan\nSina SALIK</string>
+    <string name="nav_cikis">Çıkış</string>
+    <string name="nav_websitegit">Web Sitesine Git</string>
+
+    <!--Toolbar-->
+    <string name="menu_cikis">Çıkış</string>
+    <string name="menu_ilan">İlana Git</string>
+    <string name="menu_ozellikler">Özellikler</string>
+    <string name="menu_galeri">Galeri</string>
+    <string name="menu_harita">Harita</string>
+
+    <string name="website_hazirlayan">http://www.sinasalik.net/</string>
+
+    <string name="web_root">http://emlak.sinasalik.net/</string>
+    <string name="servis_root">http://emlak.sinasalik.net/servis/emlakservice.svc/</string>
+    <!--<string name="web_root">http://10.0.2.2/emlak/</string>-->
+    <!--<string name="servis_root">http://10.0.2.2/emlak/servis/emlakservice.svc/</string>-->
+
+    <string name="baslik_haberler">Haberler</string>
+    <string name="baslik_hakkimizda">Hakkımızda</string>
+
+    <string name="baslik_ilanarama">İlan Arama</string>
+    <string name="baslik_gununilani">Günün İlanı</string>
+    <string name="baslik_rasgeleilan">Rasgele İlan</string>
+    <string name="baslik_vitrin">Vitrin</string>
+    <string name="baslik_yeniilan">Yeni İlanlar</string>
+
+    <string name="alertCikisBaslik">Çıkış Kontrol</string>
+    <string name="alertCikisMesaj">Kapatmak istediğinize emin misiniz?</string>
+
+    <string name="btnTamamText">Tamam</string>
+    <string name="btnIptalText">İptal</string>
+</resources>

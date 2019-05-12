@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="btGirisIlanlar">İlanlar</string>
+    <string name="btGirisEmlakarama">İlan Ara</string>
+    <string name="btGirisHaberler">Haberler</string>
+    <string name="btGirisGununilani">Günün İlanı</string>
+    <string name="btGirisBilgiler">Bilgiler</string>
+    <string name="btGirisHakkimizda">Hakkımızda</string>
+    <string name="btGirisIletisim">İletişim</string>
+    <string name="btGirisKapat">Çıkış</string>
+    <string name="ivGirisLogo">Logo</string>
+</resources>

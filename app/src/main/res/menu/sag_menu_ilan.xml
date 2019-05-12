@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/menuIlan"
+        android:orderInCategory="1"
+        android:title="@string/menu_ilan"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/menuOzellikler"
+        android:orderInCategory="1"
+        android:title="@string/menu_ozellikler"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menuGaleri"
+        android:orderInCategory="2"
+        android:title="@string/menu_galeri"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menuHarita"
+        android:orderInCategory="3"
+        android:title="@string/menu_harita"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menuCikis"
+        android:orderInCategory="4"
+        android:title="@string/menu_cikis"
+        app:showAsAction="never" />
+</menu>

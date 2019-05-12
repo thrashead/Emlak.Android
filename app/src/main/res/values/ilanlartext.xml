@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="btIlanlarKategori">Kategoriler</string>
+    <string name="btIlanlarTum">Tüm İlanlar</string>
+    <string name="btIlanlarSatilik">Satılık İlanlar</string>
+    <string name="btIlanlarKiralik">Kiralık İlanlar</string>
+    <string name="btIlanlarYeni">Yeni İlanlar</string>
+    <string name="btIlanlarGeri">&lt; Geri</string>
+    <string name="ivIlanlarLogo">Logo</string>
+</resources>

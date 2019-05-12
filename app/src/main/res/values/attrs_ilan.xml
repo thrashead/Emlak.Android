@@ -1,0 +1,32 @@
+<resources>
+    <declare-styleable name="IlanLayout">
+        <attr name="ilanID" format="string" />
+        <attr name="ilanBaslik" format="string" />
+        <attr name="ilanKelime" format="string" />
+        <attr name="ilanAdet" format="integer" />
+        <attr name="ilanBaslikEkle" format="boolean" />
+        <attr name="ilanTip" format="enum">
+            <enum name="Kelime" value="0"/>
+            <enum name="Yeni" value="1"/>
+            <enum name="Vitrin" value="2"/>
+            <enum name="Gunun" value="3"/>
+            <enum name="Rasgele" value="4"/>
+            <enum name="Kategori" value="5"/>
+        </attr>
+        <attr name="ilanGoruntuTip" format="enum">
+            <enum name="Tek" value="0"/>
+            <enum name="Liste" value="1"/>
+        </attr>
+    </declare-styleable>
+
+    <declare-styleable name="EmlakListView">
+        <attr name="listeBaslik" format="string" />
+        <attr name="listeCizgili" format="boolean" />
+    </declare-styleable>
+
+    <declare-styleable name="EmlakIcerikView">
+        <attr name="icerikBaslik" format="string" />
+    </declare-styleable>
+
+    <item name="emlLblBaslik" type="id" />
+</resources>

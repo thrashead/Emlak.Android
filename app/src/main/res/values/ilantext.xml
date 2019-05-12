@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="drawer_open">Aç</string>
+	<string name="drawer_close">Kapat</string>
+    <string name="btIlanOzellik">Özellikler</string>
+    <string name="btIlanGaleri">Galeri</string>
+    <string name="btIlanHarita">Harita</string>
+</resources>
